@@ -1,1 +1,1 @@
-# p-source-code-II-2026
+# Source code for programming course I-2026 term
