@@ -1,0 +1,11 @@
+* RC Circuit Transient Response Example
+* The time constant tau = R1 * C1 = 1k * 1uF = 1 ms
+
+* Voltage source: 0V pulsing to 5V with 0.1ms rise/fall time
+V1 input 0 PULSE (0 5 0 0.1m 0.1m 5m 10m)
+
+* Resistor and Capacitor
+R1 input output 1k
+C1 output 0 1uF
+
+.end
